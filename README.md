@@ -6,7 +6,7 @@ Hi, I'm an robot engineer. 🤝
 
 
 ## 📈 Status
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suke-toudara&theme=dracula
+[![]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suke-toudara&theme=dracula]
 
 
 <p align="left"> 
