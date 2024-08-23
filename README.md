@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,matlab,docker,arduino,linux)](https://skillicons.dev)
 
 
-📈 Status
+## 📈 Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suke-toudara
 )](https://github.com/anuraghazra/github-readme-stats)
 
