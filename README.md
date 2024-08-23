@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🌕 About suke-toudara
+Hi, I'm an robot engineer. 🤝
 
 ## 🌱 my skills
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,matlab,docker,arduino,linux)](https://skillicons.dev)
