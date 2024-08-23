@@ -6,6 +6,9 @@ Hi, I'm an robot engineer. 🤝
 
 
 ## 📈 Status
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suke-toudara&theme=dracula
+
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suke-toudara&layout=compact&theme=onedark&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=suke-toudara&theme=onedark" />
