@@ -6,9 +6,10 @@ Hi, I'm an robot engineer. 🤝
 
 
 ## 📈 Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suke-toudara
-)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suke-toudara&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=suke-toudara" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=suke-toudara)](https://github.com/ryo-ma/github-profile-trophy)
 
